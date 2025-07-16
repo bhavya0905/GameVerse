@@ -67,7 +67,8 @@ Follow these steps to run the GameVerse project locally on your system.
 
 ✅ Step 1: Clone the Repository
 
-git clone https://github.com/your-username/GameVerse.git
+git clone https://github.com/bhavya0905/GameVerse.git
+
 cd GameVerse
 
 ✅ Step 2: Set Up the Backend
